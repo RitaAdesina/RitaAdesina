@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning coding with python
 - 💞️ I’m looking to collaborate on Data Analytics Project
-- 📫 How to reach me on Twittter via @ritaadesina
+- 📫 Please reach out to me on Twittter via @ritaadesina
 - 
 
 <!---
